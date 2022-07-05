@@ -1,5 +1,7 @@
-#Pandora's Actor
+# Pandora's Actor
+
 Switch between your profiles effortlessly
+
 <!-- ![build](https://github.com/chibat/chrome-extension-typescript-starter/workflows/build/badge.svg) -->
 ## Project Structure
 
